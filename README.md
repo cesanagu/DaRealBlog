@@ -1,4 +1,4 @@
-<h1 align="center">⚡⚡⚡**DaRealBlog**⚡⚡⚡</h1>
+<h1 align="center">⚡⚡⚡DaRealBlog⚡⚡⚡</h1>
 
 Un proyecto increible de **Git&Github** en <a href="https://platzi.com" target="_blank" >Platzi</a>, si estas realmente interesado en aprender con este curso te aseguro que aprenderas bien, **100% recomendado**.
 
