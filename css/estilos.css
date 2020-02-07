@@ -1,11 +1,15 @@
 body{
-  background: #1e1f24;
+  /*background: #1e1f24; */
+  background-image: url(https://images.unsplash.com/photo-1577451804961-4053f81845d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60);
+  /*background-repeat: no-repeat;
+  background-size: cover;*/
   text-align: center;
   font-family: "Open Sans";
   color: #333;
   font-size: 26px;
   margin: 0;
   padding: 0;
+
 }
 
 #cabecera{
@@ -36,7 +40,8 @@ body{
   padding: 0;
   text-align: center;
   border: 2px solid #ddd;
-/* centrado */
+  margin:auto;
+/* centrado
   position: fixed;
   top: 50%;
   left: 50%;
